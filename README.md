@@ -1,4 +1,6 @@
 # 🚭 Smoke-Detector
+[![GitHub license](https://img.shields.io/github/license/liip/smoke-detector)](https://github.com/liip/smoke-detector/blob/master/LICENSE) 
+
 Allow us to be notified when there is smoke in the office.  
 Blog post :  https://www.liip.ch/blog/smoke-detector-for-device-lab  
 Netatmo API : https://dev.netatmo.com/
